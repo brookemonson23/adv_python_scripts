@@ -121,6 +121,7 @@ def find_arbitrage_opportunities(graph):
     
     # Iterate through all possible node pairs
     for n1, n2 in permutations(graph.nodes, 2):
+        print(f"\npaths from {n1} to {n2} ----------------------------------")
         # Find all paths between two nodes
         for path in nx.all_simple_paths(graph, source=n1, target=n2):
             # Calculate forward path weight
@@ -137,6 +138,11 @@ def find_arbitrage_opportunities(graph):
                 
                 # Calculate path weights factor
                 path_weights_factor = forward_path_weight * backward_path_weight
+
+                # Print in requested format
+                print(f"{path} {forward_path_weight}")
+                print(f"{path_back} {backward_path_weight}")
+                print(f"{path_weights_factor}")
                 
                 # Update smallest arbitrage opportunity
                 if path_weights_factor < smallest_factor:
