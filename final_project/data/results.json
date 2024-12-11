@@ -1,0 +1,212 @@
+[
+    {
+        "arbitrage_factor": 1.0027112019354922,
+        "forward_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "eth",
+            "dot",
+            "link"
+        ],
+        "reverse_path": [
+            "link",
+            "dot",
+            "eth",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.0027112019354922,
+        "forward_path": [
+            "link",
+            "dot",
+            "eth",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ],
+        "reverse_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "eth",
+            "dot",
+            "link"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.0027110744252667,
+        "forward_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "eth",
+            "link"
+        ],
+        "reverse_path": [
+            "link",
+            "eth",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.0027110744252667,
+        "forward_path": [
+            "link",
+            "eth",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ],
+        "reverse_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "eth",
+            "link"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.0026368660134393,
+        "forward_path": [
+            "eth",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc",
+            "link"
+        ],
+        "reverse_path": [
+            "link",
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "eth"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.0026368660134393,
+        "forward_path": [
+            "link",
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "eth"
+        ],
+        "reverse_path": [
+            "eth",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc",
+            "link"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.002634820636941,
+        "forward_path": [
+            "dot",
+            "eth",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc",
+            "link"
+        ],
+        "reverse_path": [
+            "link",
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "eth",
+            "dot"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.002634820636941,
+        "forward_path": [
+            "link",
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "eth",
+            "dot"
+        ],
+        "reverse_path": [
+            "dot",
+            "eth",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc",
+            "link"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.002569556081092,
+        "forward_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "link",
+            "eth"
+        ],
+        "reverse_path": [
+            "eth",
+            "link",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ]
+    },
+    {
+        "arbitrage_factor": 1.002569556081092,
+        "forward_path": [
+            "eth",
+            "link",
+            "dot",
+            "bch",
+            "xlm",
+            "btc",
+            "ltc"
+        ],
+        "reverse_path": [
+            "ltc",
+            "btc",
+            "xlm",
+            "bch",
+            "dot",
+            "link",
+            "eth"
+        ]
+    }
+]
